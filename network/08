@@ -1,0 +1,21 @@
+enter command: nslookup slash16.org
+
+Answer:
+Server:		192.168.50.2
+Address:	192.168.50.2#53
+
+Non-authoritative answer:
+Name:	slash16.org
+Address: 13.32.56.19
+Name:	slash16.org
+Address: 13.32.56.36
+Name:	slash16.org
+Address: 13.32.56.206
+Name:	slash16.org
+Address: 13.32.56.215
+
+Choose any IP.
+Enter command: whois 13.32.56.19
+
+Answer:
+Amazon.com
